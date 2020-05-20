@@ -352,6 +352,10 @@
     {
       "packageName": "identity-api",
       "projectFolder": "apps/identity-api"
+    },
+    {
+      "packageName": "identity-web",
+      "projectFolder": "apps/identity-web"
     }
     // {
     //   /**
